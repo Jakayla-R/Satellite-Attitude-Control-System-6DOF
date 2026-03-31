@@ -1,4 +1,3 @@
-![giphy](https://github.com/user-attachments/assets/f08a45c7-636b-4014-a2d8-cf998619b325)
 # Satellite-6DOF-GNC
 
 Full 6DOF rigid body satellite attitude and position control using a Decision Transformer trained on offline trajectory data. Extended from a single-axis pitch PID baseline originally built in MATLAB/Simulink.
